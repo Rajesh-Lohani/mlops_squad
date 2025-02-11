@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Students must develop a Machine Learning (ML) model for one of the following use cases:
+Develop a Machine Learning (ML) model for one of the following use cases:
 
 1. Sentiment Analysis on Movie Reviews – Use NLP techniques (e.g., BERT, TF-IDF + classifiers) on the IMDB dataset.
 2. Handwritten Digit Recognition – Implement an ensemble model to classify digits from the MNIST dataset.
