@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Personal/VNIT_MT/Semester%202%20-%20MLOPS/mlops-repos/mlops_squad/mlruns/234575319905375316/0ac761578fa44780b9c010d4eab0d3df/artifacts
+end_time: 1739445352059
+entry_point_name: ''
+experiment_id: '234575319905375316'
+lifecycle_stage: active
+run_id: 0ac761578fa44780b9c010d4eab0d3df
+run_name: RandomForest
+run_uuid: 0ac761578fa44780b9c010d4eab0d3df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739445261297
+status: 3
+tags: []
+user_id: lohan

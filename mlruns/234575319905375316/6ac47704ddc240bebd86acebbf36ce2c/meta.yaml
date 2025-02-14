@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Personal/VNIT_MT/Semester%202%20-%20MLOPS/mlops-repos/mlops_squad/mlruns/234575319905375316/6ac47704ddc240bebd86acebbf36ce2c/artifacts
+end_time: 1739445356596
+entry_point_name: ''
+experiment_id: '234575319905375316'
+lifecycle_stage: active
+run_id: 6ac47704ddc240bebd86acebbf36ce2c
+run_name: MultinomialNB
+run_uuid: 6ac47704ddc240bebd86acebbf36ce2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739445352065
+status: 3
+tags: []
+user_id: lohan
