@@ -10,7 +10,6 @@ This project implements a REST API for classifying emails as spam or not spam us
 
 ### Clone the repository:
    git clone git@github.com:Rajesh-Lohani/mlops_squad.git
-   cd mlops_squad
 
 ## How to run the application using Docker image – available in docker hub :
 
