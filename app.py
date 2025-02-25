@@ -16,7 +16,7 @@ with open("model/vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 
 
-# Endpoint to get the best model parameters
+# Endpoint to get the best model parameters Updated
 @app.route("/best_model_parameters", methods=["GET"])
 def best_model_parameters():
     return jsonify({"best_model_parameters": model.get_params()})
