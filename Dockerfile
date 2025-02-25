@@ -10,7 +10,7 @@ COPY . .
 
 # Expose ports for Flask API and MLflow UI
 
-# Flask API
+# Flask API Generation and Port update
 EXPOSE 5000 
 # MLflow UI 
 EXPOSE 5001  
