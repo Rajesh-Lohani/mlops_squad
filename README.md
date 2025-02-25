@@ -2,7 +2,7 @@
 
 This project implements a REST API for classifying emails as spam or not spam using NLP techniques.
 
-## Features
+## Features Available
 - Train multiple models (Decision Tree, Logistic Regression, Random Forest, Multinomial Naive Bayes).
 - Hyperparameter tuning with MLflow logging.
 - REST API endpoints for model parameters, training, and prediction.
