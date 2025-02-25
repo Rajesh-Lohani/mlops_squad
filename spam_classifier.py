@@ -11,7 +11,7 @@ import mlflow.sklearn
 
 import pickle
 
-# Load dataset
+# Dataset loaded
 df = pd.read_csv("dataset/spam.csv", encoding="latin-1")
 
 # Preprocess data
